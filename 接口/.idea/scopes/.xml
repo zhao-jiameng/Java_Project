@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="未命名" pattern="lib:com.sun.accessibility.internal.resources.*||lib:*..*||test:*..*||src:*..*" />
+</component>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jdbc/jdbc.iml" filepath="$PROJECT_DIR$/jdbc/jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main/main.iml" filepath="$PROJECT_DIR$/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/内部类/内部类.iml" filepath="$PROJECT_DIR$/内部类/内部类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/异常/异常.iml" filepath="$PROJECT_DIR$/异常/异常.iml" />
+      <module fileurl="file://$PROJECT_DIR$/接口.iml" filepath="$PROJECT_DIR$/接口.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数组/数组.iml" filepath="$PROJECT_DIR$/数组/数组.iml" />
+      <module fileurl="file://$PROJECT_DIR$/递归/递归.iml" filepath="$PROJECT_DIR$/递归/递归.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main/集合.iml" filepath="$PROJECT_DIR$/main/集合.iml" />
+      <module fileurl="file://$PROJECT_DIR$/集合2/集合2.iml" filepath="$PROJECT_DIR$/集合2/集合2.iml" />
+    </modules>
+  </component>
+</project>

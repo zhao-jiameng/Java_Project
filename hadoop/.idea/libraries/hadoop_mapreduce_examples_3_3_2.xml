@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="hadoop-mapreduce-examples-3.3.2">
+    <CLASSES>
+      <root url="jar://E:/hadoop-mapreduce-examples-3.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/hadoop-mapreduce-examples-3.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
